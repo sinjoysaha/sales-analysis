@@ -27,11 +27,13 @@ In this [`Sales Analysis`](https://sinjoysaha.github.io/sales-analysis/) Jupyter
 
 ### Tasks
 
-* Task 1: 
+* Task 1: Merge 12 months of sales data into a single CSV file
+* Task 2: Create new 'Month' column from 'Order Date' column
+* Task 3: Add a Sales column
 
 ### Questions
 
-* Question 1:
+* Question 1: What was the best month for sales? How much was earned that month?
 
 ### Built With
 
